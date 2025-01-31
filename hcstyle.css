@@ -94,3 +94,7 @@ h1{
     padding:9px 10px 9px 10px;
     border-radius: 10px;
 }
+
+p{
+  background: none;  
+}
